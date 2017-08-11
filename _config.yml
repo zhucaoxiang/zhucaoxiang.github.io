@@ -1,0 +1,95 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Caoxiang's pages.
+name: Caoxiang Zhu (祝曹祥)
+email: zcxiang@gmail.com
+location: Princeton, NJ, USA
+company: USTC
+company_url: www.ustc.edu.cn
+github_url: https://github.com/zhucaoxiang
+description: Gallary of my personal stuffs
+favicon: favicon.png # Image must be in assets/images
+repository: zhucaoxiang/zhucaoxiang.github.io # ex. DONGChuan/DONGChuan.github.io
+
+# The base hostname & protocol for your site
+# For local test, please use http://localhost:4000
+# For production, use your github page url. ex. http://dongchuan.github.io
+#port: 8888
+url: https://zhucaoxiang.github.io
+
+## Gem
+gems:
+  - jekyll-paginate
+  - jekyll-geo-pattern
+  - rouge
+  - kramdown
+  - jekyll-github-metadata
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+
+source:      .
+destination: ./_site
+
+quiet:    false
+defaults: []
+
+kramdown:
+  input: GFM
+  enable_coderay: true
+  hard_wrap: false
+
+# Disque
+disque: gh-pages-2.disqus.com # ex. httpdongchuangithubio.disqus.com
+
+# Pagination
+paginate: 10
+paginate_path: 'page:num'
+
+# Navigation. If you do not like these modules, just remove them :D
+navs:
+  -
+    href: /
+    label: Home
+
+  -
+    href: /research
+    label: Research
+
+  -
+    href: /blog
+    label: Blog
+
+  -
+    href: /bookmark
+    label: Bookmark
+
+  -
+    href: /about
+    label: About
+
+# Sidebar to show popular repo
+side_bar_repo_limit: 5 # Number of repos to show
+
+# Google Analytics
+analytics :
+  provider : google
+  google :
+      tracking_id : UA-103668708-1
+
+
+# For about.html. Fell free to create your own!
+research_keywords: [Stellarator Physics, Nonlinear Optimization, Coil Sesign]
+physics_codes_keywords: [FOCUS, GLASS, VMEC, NESCOIL, COILOPT++, BNORM, FIELDLINES, STELLOPT] 
+coding_keywords: [Fortran, Python, ANSYS, MATLAB, C++]
+numerical_keywords: [OpenMPI, HDF5, Makefile, GitHub, NumPy, SciPy, Matplotlib, Mayavi]
+misc_keywords: [Linux, Emacs, Markdown, NAG, LAPACK, MINPACK, Mathematic, HTML]

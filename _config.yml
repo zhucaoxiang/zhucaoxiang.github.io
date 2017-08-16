@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Caoxiang's pages.
+title: Caoxiang's site
 name: Caoxiang Zhu (祝曹祥)
 email: zcxiang@gmail.com
 location: Princeton, NJ, USA
@@ -20,8 +20,8 @@ repository: zhucaoxiang/zhucaoxiang.github.io # ex. DONGChuan/DONGChuan.github.i
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-# port: 8888
-  url: https://zhucaoxiang.github.io
+port: 8888
+# url: https://zhucaoxiang.github.io
 
 ## Gem
 gems:

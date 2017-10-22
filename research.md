@@ -15,7 +15,8 @@ menu: lab
 
   Caoxiang Zhu, Stuart R. Hudson, Yuntao Song & Yuanxi Wan
   
-  [arXiv:1705.02333](https://arxiv.org/abs/1705.02333)
+  Accepted by [Nuclear Fusion](http://iopscience.iop.org/article/10.1088/1741-4326/aa8e0a),
+  also on [arXiv:1705.02333](https://arxiv.org/abs/1705.02333)
   
 -----------------
 
@@ -71,13 +72,23 @@ menu: lab
   
 -----------------
 
-- **Hessian matrix used for stellarator coil design and error fields prediction.** (*Oral*)
+- **Hessian matrix used for stellarator coil design and error fields prediction.** (*Oral*, **Student Best Presentation Award**)
 
   Caoxiang Zhu, Stuart R. Hudson, Yuntao Song & Yuanxi Wan
   
   The 21st International Stellarator-Heliotron Workshop, Kyoto, Japan, October, 2017.
   ([abstract](/assets/files/abs_Zhu_ISHW2017.pdf))
+  ([slides](/assets/files/ppt_Zhu_ISHW2017.pdf))
   
+-----------------
+
+- **A new coil design code FOCUS for designing stellarator coils without the winding surface.**  (*Seminar*)
+
+  Caoxiang Zhu
+
+  Theory seminar, Theory Department of Prineton Plasma Physics Laboratory, Princeton, USA, August, 2017
+  ([slides](http://theory.pppl.gov/news/seminars/20170830Zhu.pdf))
+
 -----------------
   
 - **A flexible optimized method for designing 3D coils in fusion devices.** (*Seminar*)
@@ -88,7 +99,7 @@ menu: lab
   
 -----------------
 
-- **Flexible optimized coil designing method using space curves.** (*Poster*)
+- **Flexible optimized coil designing method using space curves.** (*Poster*, **Student Poster Award**)
   
   Caoxiang Zhu, Stuart R. Hudson, Yuntao Song & Yuanxi Wan
   

@@ -11,9 +11,8 @@ css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon
 ---
 
 ## About me
-Hi, I am Caoxiang ZHU. My Chinese name is 祝曹祥. You can call me Caoxiang (*／tsáo ʃʌŋ／*) or Xiang.
-I am a Ph.D. candidate in Nuclear Science and Technology at the **University of Science and Technology of China** ([USTC](http://en.ustc.edu.cn)).
-Currently, I'm visiting the **Princeton Plasma Physics Laboratory** ([PPPL](www.pppl.gov)) as a research scholar.
+Hi, I am Caoxiang ZHU. My Chinese name is 祝曹祥. You can call me Caoxiang (*／tsáo ʃʌŋ／*).
+I work at the **Princeton Plasma Physics Laboratory** ([PPPL](www.pppl.gov)) as a Stellarator Optimization Scientist (potsdoc position).
 
 My main research interest focuses on the [**FOCUS**](https://princetonuniversity.github.io/FOCUS/).
 The FOCUS code is designed to find the most optimized coils for [stellarators](https://en.wikipedia.org/wiki/Stellarator).
@@ -23,8 +22,6 @@ You can view my CV or look at my research page for more information.
 
 ## Contact me
 &nbsp;&nbsp; - **Email**
-  
-  &nbsp;&nbsp;&nbsp; zcxiang@mail.ustc.edu.cn (academic)
   
   &nbsp;&nbsp;&nbsp; czhu@pppl.gov (academic)
   

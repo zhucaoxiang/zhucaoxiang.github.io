@@ -7,6 +7,26 @@ menu: lab
 
 ## Publications
 
+### 2018
+
+-----------------
+
+- **Designing stellarator coils by a modified Newton method using FOCUS.**
+
+  Caoxiang Zhu, Stuart R. Hudson, Yuntao Song & Yuanxi Wan
+
+  [*Plasma Physics and Controlled Fusion*, **60**(6), 065008](http://iopscience.iop.org/article/10.1088/1361-6587/aab8c2/)
+
+-----------------
+
+- **Hessian matrix approach for determining error field sensitivity to coil deviations.**
+
+  Caoxiang Zhu, Stuart R. Hudson, Samuel A. Lazerson, Yuntao Song & Yuanxi Wan
+
+  [*Plasma Physics and Controlled Fusion*, **60**(5), 054016](http://iopscience.iop.org/article/10.1088/1361-6587/aab6cb/)
+
+-----------------
+
 ### 2017
 
 -----------------
@@ -15,8 +35,7 @@ menu: lab
 
   Caoxiang Zhu, Stuart R. Hudson, Yuntao Song & Yuanxi Wan
   
-  Accepted by [Nuclear Fusion](http://iopscience.iop.org/article/10.1088/1741-4326/aa8e0a),
-  also on [arXiv:1705.02333](https://arxiv.org/abs/1705.02333)
+  [*Nuclear Fusion*, **58**(1), 016008](http://iopscience.iop.org/article/10.1088/1741-4326/aa8e0a) (also available on [arXiv:1705.02333](https://arxiv.org/abs/1705.02333))
   
 -----------------
 
@@ -49,6 +68,36 @@ menu: lab
 -----------------
 
 ## Presentations
+
+### 2018
+
+-----------------
+
+- **Hessian matrix approach for determining error field sensitivity to coil deviations.** (**Invited talk**)
+
+  Caoxiang Zhu, Stuart R. Hudson, Samuel A. Lazerson & David A. Gates
+  
+  Sherwood Fusion Theory Conference, Auburn, USA, April 23-25, 2018. 
+  ([abstract](/assets/files/abs_Zhu_Sherwood2018.pdf))
+  ([slides](/assets/files/ppt_Zhu_Sherwood2018.pdf))
+  
+-----------------
+
+- **Development of the FOCUS code for designing stellarator coils.** (*Seminar*)
+
+  Caoxiang Zhu
+  
+  Plasma Physics Seminar, University of Maryland, College Park, MD, USA, March 28, 2018
+
+-----------------
+
+- **FOCUS – a new stellarator coil optimization tool.** (*Research Meeting Talk*)
+
+  Caoxiang Zhu
+  
+  Monthly Research Meeting, Princeton Plasma Physics Laboratory, Princeton, March 13, 2018
+
+-----------------
 
 ### 2017
 
@@ -105,7 +154,7 @@ menu: lab
   
   Sherwood Fusion Theory Conference, Annapolis, USA, May, 2017. 
   ([abstract](/assets/files/abs_Zhu_Sherwood2017.pdf)) 
-  ([pdf](/assets/files/ppt_Zhu_Sherwood2017.pdf))
+  ([poster](/assets/files/ppt_Zhu_Sherwood2017.pdf))
   
 -----------------
 

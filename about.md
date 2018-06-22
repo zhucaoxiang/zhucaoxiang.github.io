@@ -3,7 +3,7 @@ layout: page
 title: About Me
 menu: about
 subtitle:   <h3>Download My CV</h3>
-            <a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/CV_czhu.pdf" target="_blanks">
+            <a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/CV_CZHU.pdf" target="_blanks">
                 <span class="flag-icon flag-icon-gb"></span> English
             </a>
                             

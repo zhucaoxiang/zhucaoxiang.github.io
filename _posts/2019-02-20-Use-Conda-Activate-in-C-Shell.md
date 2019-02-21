@@ -75,3 +75,5 @@ You could do the following steps to smoothly switch python envs in C-shell.
 
 You could also put the variable CONDA_ENVS_PATH in your `.cshrc` file and make alias to the commands.
 For you convenience, here are links to the two scripts: [activate.csh](/assets/files/activate.csh) and [deactivate.csh](/assets/files/deactivate.csh).
+
+__UPDATE:__ By doing so, when you use `conda install ` to install packages, there is a possibility that you will install it under the default env rather than the current one.

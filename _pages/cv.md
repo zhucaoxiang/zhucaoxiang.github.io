@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Nuclear Engineering and Technology, University of Science and Technology of China , 2012
+* Ph.D in Nuclear Science and Technology, University of Science and Technology of China, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2022 - Present
+  * University of Science and Technology of China
+  * Tenure-track professor in 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* April 2020 - Feb 2022
+  * Princeton Plasma Physics Laboratory
+  * Staff Research Physicist
+
+* Feb 2018 - March 2020
+  * Princeton Plasma Physics Laboratory
+  * Associated Research Physicist
+
+* Sept 2015 - Sept 2017
+  * Princeton Plasma Physics Laboratory
+  * Visiting Scholar
+
+* Sept 2012 - Aug 2015
+  * University of Science and Technology of China
+  * Graduate Research Assistant
+    
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Code development with Fortran/Python for scientific research
+* Code management of large physics codes using git
+* Data processing and scientific visualization using Python
+ 
 
 Publications
 ======
@@ -54,6 +61,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
